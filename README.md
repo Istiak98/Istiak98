@@ -4,7 +4,6 @@ This is Istiak Ahmed, and I am from Chittagong. I am a final year Computer Scien
 
 Skills: REACT / JS / HTML / CSS/BOOTSTRAP/MUI/REACT ROUTER
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istiak98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiak-ahmed-857b92226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://istiak-ahmed-rajon.web.app/)  
