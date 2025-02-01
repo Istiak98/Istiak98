@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Istiak Ahmed
 #### Software Developer
-This is Istiak Ahmed, and I am from Chittagong. I am a final year Computer Science and Engineering student from International Islamic University Chittagong. As a student of life, my ambition is to set my goal as an innovative Engineer. I want to set up myself as a Full Stack Web Developer. To build up a career in a well-established and environment-friendly organization where acquired knowledge and experience can be used effectively strengths are my positive attitude, punctuality, and interpersonal skills. I am familiar with React.js, Bootstrap, MongoDB, Firebase, etc. I can also introduce myself as a Mern Stack Developer. I am so comfortable with that and also build some projects with React.js.
+Dedicated and results-driven Software Developer with 2+ years of experience in designing, developing, and maintaining scalable web applications. Proficient in modern front-end technologies, with a strong focus on React, Next Js, TypeScript, and Node.js. Passionate about building seamless user experiences and optimizing application performance. Adept at collaborating in cross-functional teams to deliver high-quality software solutions.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / MUI / REACT ROUTER . . . . . etc
 
