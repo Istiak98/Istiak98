@@ -2,8 +2,11 @@
 #### Software Developer
 Dedicated and results-driven Software Developer with 2+ years of experience in designing, developing, and maintaining scalable web applications. Proficient in modern front-end technologies, with a strong focus on React, Next Js, TypeScript, and Node.js. Passionate about building seamless user experiences and optimizing application performance. Adept at collaborating in cross-functional teams to deliver high-quality software solutions.
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / MUI / REACT ROUTER . . . . . etc
-
+Skills:
+•	Programming Languages: JavaScript, TypeScript, C, C++, Python
+•	Frontend Technologies: React.js, Next.js, Redux, RTK Query, Tailwind CSS, Material UI, Ant Design, Bootstrap, Shadcn.
+•	Databases: MySQL, MongoDB, Firebase
+•	Testing & Tools: Jest, Postman, Chrome DevTools
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istiak98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiak-ahmed-857b92226//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://istiak-ahmed-rajon.web.app/)  
