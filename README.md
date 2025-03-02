@@ -9,9 +9,9 @@
 
 </div>
 
-My name is Istiak Ahmed, a passionate tech enthusiast with a deep love for software development. I’m excited to collaborate with an innovative team to shape the digital world through advanced web technologies. I also aspire to broaden my skills and evolve into a proficient full-stack developer.
+My name is Istiak Ahmed — a dedicated and passionate software developer with over 2 years of professional experience in building modern, scalable web applications. I thrive on creating innovative digital solutions and collaborating with forward-thinking teams to shape the future of technology.
 
-My focus lies in crafting exceptional user experiences through creative and efficient web applications. Leveraging powerful frameworks like React.js, I strive to build dynamic, interactive, and user-centric solutions. My goal is to blend design and functionality seamlessly, delivering web experiences that provide real, lasting value.
+My expertise lies in developing exceptional user experiences through creative, efficient, and well-architected web applications. I’m deeply committed to mastering both frontend and backend technologies, blending design and functionality to deliver seamless, user-centric solutions.
 
 ## :chart_with_upwards_trend: Current Stats
 
