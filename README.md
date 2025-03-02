@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Details](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Istiak+Ahmed!;+Software+Developer;+MERN-Stack+Developer;+Full-Stack+Developer)
+![Details](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Istiak+Ahmed!;+Software+Developer;+Full-Stack+Developer)
 
 </div>
 
